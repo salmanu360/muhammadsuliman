@@ -2,7 +2,7 @@
 
 Senior Full-Stack Software Engineer with **10+ years of experience** designing and building scalable web platforms, APIs, and enterprise systems. I specialize in modern JavaScript ecosystems and robust backend architectures, delivering reliable digital products across healthcare, enterprise, and research platforms.
 
-Currently based in **Sundsvall, Sweden**, I focus on building scalable systems, clean architectures, and high-performance applications that create real business value.
+Currently based in **Stockholm, Sweden**, I focus on building scalable systems, clean architectures, and high-performance applications that create real business value.
 
 ---
 
